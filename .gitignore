@@ -1,5 +1,5 @@
-/.DS_Store
 /.vscode
 /public/uploads
 /vendor
 composer.phar
+.DS_Store
