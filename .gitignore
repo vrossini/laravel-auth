@@ -2,3 +2,4 @@
 /.vscode
 /public/uploads
 /vendor
+composer.phar
